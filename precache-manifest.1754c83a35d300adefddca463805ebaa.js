@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "89267e53a07d8333a3e0",
+    "revision": "99205294347fb8f6c74a",
     "url": "/LCNFTMintSite/static/css/main.a114b701.chunk.css"
   },
   {
-    "revision": "89267e53a07d8333a3e0",
-    "url": "/LCNFTMintSite/static/js/main.89267e53.chunk.js"
+    "revision": "99205294347fb8f6c74a",
+    "url": "/LCNFTMintSite/static/js/main.99205294.chunk.js"
   },
   {
     "revision": "42577204aa4aa8d26624",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/LCNFTMintSite/static/media/logo.819d8fe1.png"
   },
   {
-    "revision": "1b5359ccb77999d2f68fcbff6b31211b",
+    "revision": "78ad8dddf9b186e50723bb63305311a3",
     "url": "/LCNFTMintSite/index.html"
   }
 ];
